@@ -1,0 +1,23 @@
+{
+  "docs": {
+    "Requirements Summary": [
+      "background",
+      "use-cases",
+      "stakeholder-analysis",
+      "requirements"
+    ],
+    "High-Level Design": [
+      "system-architecture",
+      "database-design",
+      "api-design",
+      "web-app-design"
+    ],
+    "Design Rationale": [
+      "system-architecture-rationale",
+      "database-design-rationale",
+      "api-design-rationale",
+      "web-app-design-rationale",
+      "conclusion"
+    ]
+  }
+}
