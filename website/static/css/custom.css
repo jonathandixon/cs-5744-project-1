@@ -1,5 +1,19 @@
 /* your custom css */
 
+abbr {
+  white-space: nowrap;
+}
+
+figure {
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+figcaption {
+  font-size: 0.8em;
+  text-align: center;
+}
+
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }
 

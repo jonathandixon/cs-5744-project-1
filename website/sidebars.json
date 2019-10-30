@@ -8,6 +8,7 @@
     ],
     "High-Level Design": [
       "system-architecture",
+      "file-storage-design",
       "database-design",
       "api-design",
       "web-app-design"
