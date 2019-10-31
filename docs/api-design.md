@@ -197,3 +197,7 @@ API endpoints examples (not an exhaustive list):
     <li>Authorization control indicates additional security checks to verify a user can access or modify the requested resource.</li>
   </ol>
 </div>
+
+<div class="citations">
+[1] <a href="https://www.oracle.com/technetwork/java/dataaccessobject-138824.html">https://www.oracle.com/technetwork/java/dataaccessobject-138824.html</a>
+</div>
