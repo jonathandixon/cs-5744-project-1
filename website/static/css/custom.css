@@ -1,4 +1,7 @@
 /* your custom css */
+.fixedHeaderContainer {
+  background: #20232a;
+}
 
 abbr {
   white-space: nowrap;
