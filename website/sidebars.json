@@ -16,7 +16,7 @@
     ],
     "Design Rationale": [
       "system-architecture-rationale",
-      "database-design-rationale",
+      "data-tier-rationale",
       "api-design-rationale",
       "web-app-design-rationale",
       "conclusion"
