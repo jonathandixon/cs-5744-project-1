@@ -18,6 +18,17 @@ table.traceability-matrix td {
   text-align: center;
 }
 
+div.citations {
+  border-top: 1px solid #949c90;
+  font-size: 0.9em;
+  color: #949c90;
+  padding-top: 0.5em;
+}
+
+img.file-storage-diagram {
+  max-width: 300px;
+}
+
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }
 

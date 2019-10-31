@@ -1,7 +1,7 @@
 {
   "docs": {
+    "Introduction": ["introduction"],
     "Requirements Summary": [
-      "background",
       "use-cases",
       "stakeholder-analysis",
       "requirements"
