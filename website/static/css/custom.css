@@ -29,6 +29,10 @@ img.file-storage-diagram {
   max-width: 300px;
 }
 
+div.notes {
+  font-size: 0.8em;
+}
+
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }
 
