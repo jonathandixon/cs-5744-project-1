@@ -9,7 +9,7 @@
 // site configuration options.
 
 const siteConfig = {
-  title: 'CS 5744 - Project 1 - Pet Medical Record System',
+  title: 'CS 5744 - Project 1 - Pet Adoption and Medical Record System',
   tagline: 'A website for testing',
   url: 'https://jonathandixon.github.io', // Your website URL
   baseUrl: '/cs-5744-project-1/',
@@ -55,7 +55,9 @@ const siteConfig = {
   },
 
   // Add custom scripts here that would be placed in <script> tags.
-  scripts: ['https://buttons.github.io/buttons.js'],
+  scripts: [
+    'https://buttons.github.io/buttons.js',
+  ],
 
   // On page navigation for the current documentation page.
   onPageNav: 'separate',

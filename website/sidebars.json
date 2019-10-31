@@ -11,7 +11,8 @@
       "file-storage-design",
       "database-design",
       "api-design",
-      "web-app-design"
+      "web-app-design",
+      "requirement-traceability-matrix"
     ],
     "Design Rationale": [
       "system-architecture-rationale",
