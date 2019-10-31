@@ -4,7 +4,7 @@ title: Requirement Traceability Matrix
 sidebar_label: Requirement Traceability Matrix
 ---
 
-> TODO: Add Explanation Here!
+Within the previous design sections we have included references to a number of functional and non-functional requirements where appropriate. Some of the requirements are overarching and difficult to pin to a single component of the system. The following requirements traceability matrices should provide a quick reference for the relationship between the requirements and the system components.
 
 ## Functional Requriements
 
