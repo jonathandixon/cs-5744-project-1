@@ -62,6 +62,10 @@ Delete (DELETE):
 - Client sends a request to delete some information
 - DAO prepares and execute a DELETE statement to remove the corresponding data in database
 
+## Platform
+
+To host the API, we will use Amazon Elastic Cloud Compute (EC2) with Auto Scaling. With auto scaling, we can dynamically scale compute performance to meet demand, which will satisfy NR-3 and NR-4
+
 ## API Endpoints
 
 For the initial set of requirements all of the REST API endpoints should be private or protected in some way. We do not want to allow any anonymous source to access the API.
